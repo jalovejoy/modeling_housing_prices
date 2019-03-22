@@ -16,7 +16,7 @@ The goal of this project was to construct a model that would effectively predict
 1. Importing Libraries & Loading Data
 2. Cleaning & Preparing Data
     1. Renaming columns
-    2. Dropping bad data](#DropBadData)
+    2. Dropping bad data
     3. Resetting values & types
 3. Populating Null Values
 4. Adding Metrics
