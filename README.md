@@ -1,4 +1,4 @@
-# Project 2: Advanced Linear Regression Price Modeling & Optimization with  Ames, IA Housing Data
+# Advanced Linear Regression Price Modeling & Optimization with  Ames, IA Housing Data
 <img src="https://raw.git.generalassemb.ly/JamesLovejoy-DEN/project_2/master/images/ames-aerial-view.JPG?token=AABKmAtenB9YFRtHKjrQe9GAFfd3THYrks5cnVLvwA%3D%3D"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
