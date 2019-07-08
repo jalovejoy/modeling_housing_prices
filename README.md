@@ -68,7 +68,7 @@ This represents the data used in the model and/or model construction. The initia
 
 **Model Testing & Optimization:** The features I selected were then put through a rigorous model selection process that evaluated Cross Validation scores (5 K-Folds) across Linear Regressions, Lasso Regressions, Ridge Regressions, and Elastic Regressions both using a Standard Scaler and Power Transformation. After testing the performance of each, using the Power Transformation on the features and inputting them into a Ridge model delivered the best Cross Validation scores. I then fit the model and created predictions and error scores. To better understand the model performance, I created a scatter plot (Actuals vs Predictions), a histogram of errors (to ensure errors were normal), and a kernel density plot. Finally, I took the 5 most over and under predicted houses and examined the features that they collectively over- and under-indexed on to identify if there were other features worth incorporating to mitigate the strongest outliers. The final model delivered a cross validation score of 0.87.
 
-<img src="https://raw.githubusercontent.com/jalovejoy/modeling_housing_prices/master/images/model-results.JPG"
+<img src="https://raw.githubusercontent.com/jalovejoy/modeling_housing_prices/master/images/model-results.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
